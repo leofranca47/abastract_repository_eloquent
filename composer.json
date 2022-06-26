@@ -1,0 +1,17 @@
+{
+    "name": "leofranca47/abstract_repository_eloquent",
+    "description": "Cria abstracao de repositorios do eloquent",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Leofranca47\\AbstractRepositoryEloquent\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leo Franca dev"
+        }
+    ],
+    "require": {}
+}
